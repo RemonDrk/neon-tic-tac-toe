@@ -1,0 +1,16 @@
+﻿  Main.cpp
+D:\repos\tictactoe\tictactoe\Main.cpp(26,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\repos\tictactoe\tictactoe\Main.cpp(26,24): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\repos\tictactoe\tictactoe\Main.cpp(37,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\repos\tictactoe\tictactoe\Main.cpp(37,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\repos\tictactoe\tictactoe\Main.cpp(41,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\repos\tictactoe\tictactoe\Main.cpp(41,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  tictactoe.vcxproj -> D:\repos\tictactoe\x64Debug\tictactoe.exe

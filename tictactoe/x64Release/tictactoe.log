@@ -1,0 +1,20 @@
+﻿  Main.cpp
+D:\repos\tictactoe\tictactoe\Main.cpp(26,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\repos\tictactoe\tictactoe\Main.cpp(26,24): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\repos\tictactoe\tictactoe\Main.cpp(37,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\repos\tictactoe\tictactoe\Main.cpp(37,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\repos\tictactoe\tictactoe\Main.cpp(41,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\repos\tictactoe\tictactoe\Main.cpp(41,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 120 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  tictactoe.vcxproj -> D:\repos\tictactoe\x64Release\tictactoe.exe
